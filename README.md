@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**FoodiePig/FoodiePig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am currently working on:
 
-Here are some ideas to get you started:
+### Discord Bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tesco TLC Bot (https://github.com/FoodiePig/tesco-tlc-bot-v2)
+<br>
+Lidl™ Roblox Bot (https://github.com/FoodiePig/LidlBot)
+
+### Roblox Games
+
+Tesco TLC Store
+<br>
+B&M Store
+
+#### Thanks for reading!
